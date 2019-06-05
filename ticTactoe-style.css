@@ -2,6 +2,7 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: Avenir;
+    background-color: black;
 }
 
 .container {
@@ -18,10 +19,11 @@ body {
     align-items: center;
     text-align: center;
     justify-content: center;
-    border: 1px solid black;
+    border: 1px solid white;
     height: 200px;
     width: 200px;
     font-size: 50px;
+    margin: 5px;
     cursor: pointer;
     color: rgba(0,0,0,0);
 }
